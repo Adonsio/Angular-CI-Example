@@ -1,7 +1,7 @@
 [![Angular CI](https://github.com/Adonsio/Angular-CI-Example/actions/workflows/angular.yml/badge.svg)](https://github.com/Adonsio/Angular-CI-Example/actions/workflows/angular.yml)
 
 
-# Find the full guid on my blog
+# Find the full guide on my blog
 
 [Building Angular CLI Projects with Github Actions](https://adonsio.de/building-angular-cli-projects-with-github-actions/)
 
