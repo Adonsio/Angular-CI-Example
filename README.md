@@ -1,3 +1,14 @@
+[![Angular CI](https://github.com/Adonsio/Angular-CI-Example/actions/workflows/angular.yml/badge.svg)](https://github.com/Adonsio/Angular-CI-Example/actions/workflows/angular.yml)
+
+
+# Find the full guide on my blog
+
+[Building Angular CLI Projects with Github Actions](https://adonsio.de/building-angular-cli-projects-with-github-actions/)
+
+
+
+
+
 # AngularActions
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
