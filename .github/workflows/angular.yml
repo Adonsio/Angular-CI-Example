@@ -38,11 +38,8 @@ jobs:
             ${{ runner.os }}-build-
             ${{ runner.os }}-
             
-      - name: Run npm i
-        run: npm i
-        
-      - name: Run test:ci command
-        run: npm run test:ci
-        
-      - name: Run build:ci command
-        run: npm run build:ci
+      - name: npm install and npm run CI commands
+        run: |
+          npm i
+          npm run test:ci
+          npm run build:ci
