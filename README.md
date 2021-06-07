@@ -3,7 +3,7 @@
 
 # Find the full guide on my blog
 
-[Building Angular CLI Projects with Github Actions](https://adonsio.de/building-angular-cli-projects-with-github-actions/)
+[Building Angular CLI Projects with Github Actions](https://adonsio.de/how-to-set-up-github-actions-for-angular-projects/)
 
 
 
